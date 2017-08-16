@@ -2,7 +2,7 @@
 
 To install the project on your machine, you can either clone the repository using git, or click the download zip button on the right and unzip the file.
 
-To view theoptimized webpage, double-click on index.html.
+To view theoptimized webpage, double-click on index.html or go to (https://anujpanchal57.github.io/Website-Optimization/).
 
 > I've optimized `index.html` page to achieve at least a 90 PageSpeed score.
 > I've optimized the JavaScript in `pizza.html` to achieve a frame rate of **60fps** when we scroll.
